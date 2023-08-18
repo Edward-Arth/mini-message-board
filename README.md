@@ -1,1 +1,1 @@
-# mini-message-board
+In this project, I consolidate the basics of Express.js and Mongoose by creating a mini message board.
